@@ -4,9 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhs-debug&layout=compact&langs_count=7&theme=white"/>
 </div>
 
- 
-- 🔭 I’m currently working on RPA Development
-- 🌱 I’m currently learning Back-End
 - 📫 How to reach me: rafael.henriquee@outlook.com
 
 
