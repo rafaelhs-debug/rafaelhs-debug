@@ -5,6 +5,6 @@
 </div>
 
  
-- 📫 How to reach me: rafael.henriquee@outlook.com 
+- 📫 How to reach me: rafael.henriquee@outlook.com
 
 
